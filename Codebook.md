@@ -141,4 +141,4 @@ Steps:
 
 (7) Post-Questions - Save tidy data for use later on
     (7.1) Adjusted the working directory
-    (7.2) I wrote the table to a table delimited text file
+    (7.2) Wrote the table to a delimited text file
