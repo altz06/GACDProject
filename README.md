@@ -14,8 +14,13 @@ Purpose: This repo contains the following files:
 
 3) A readme file, which explains how the scripts work and their general purpose.
 
+
 Notes: In order to retrace the steps used in this process, it is assumed that the user 
+
 1) Has R software installed
+
 2) Has downloaded and unzipped the UCI data set (URL above) 
+
 3) Has the plyr package in their library
+
 4) Has updated the working directory in the script (as appropriate) to interact with the data files
