@@ -100,17 +100,11 @@ features.txt      angle(Z,gravityMean)      anglezgravitymean
 
 ========================================================
 
-###Assumptions 
-I assumed data columns within the test/train data files corresponded to the logical order of column names within the features.txt file. Also assume user has access to the Plyr library, R software, and original data files (URL available in the README file in this repo)
-
-========================================================
-
 ###Data Transformation Steps
 Notes: The steps I used to tidy the data from the original files are detailed below, along with any assumptions I made.
 The Plyr package was required during the process. 
 
 ========================================================
-
 
 Steps:
 
