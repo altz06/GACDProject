@@ -104,7 +104,6 @@ features.txt      angle(Z,gravityMean)      anglezgravitymean
 Notes: The steps I used to tidy the data from the original files are detailed below, along with any assumptions I made.
 The Plyr package was required during the process. 
 
-========================================================
 
 Steps:
 
